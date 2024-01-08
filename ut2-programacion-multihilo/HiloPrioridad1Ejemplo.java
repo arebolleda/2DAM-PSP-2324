@@ -1,6 +1,6 @@
 // Clase crea tres objetos de la clase HiloPrioridad1
 
-public class HiloPrioridad1Ejemplo {
+public class HiloPrioridad1Ejecutar {
     public static void main(String args[]) {    
       HiloPrioridad1 h1 = new HiloPrioridad1("Hilo1");
       HiloPrioridad1 h2 = new HiloPrioridad1("Hilo2");
